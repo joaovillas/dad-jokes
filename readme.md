@@ -409,3 +409,7 @@ There are 10 types of people in this world, those who understand binary and thos
 **AND GATE:** No.
 
 ---
+**Q:** The web developer was hungry, where did he go?
+**A:** He went to the RESTaurant 
+
+---
